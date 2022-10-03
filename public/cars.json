@@ -1,0 +1,19 @@
+{
+    "Cars" : [
+        {
+            "Brand": "BMW",
+            "Modell": "M3",
+            "Year": "2020"
+        },
+        {
+            "Brand": "Volvo",
+            "Modell": "S70",
+            "Year": "1998"
+        },
+        {
+            "Brand": "Audi",
+            "Modell": "RS6",
+            "Year": "2022"
+        }
+    ]
+}
